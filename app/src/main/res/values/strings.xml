@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Salon de belleza</string>
+    <string name="menu1">Pagina Principal</string>
+    <string name="menu2">Pagina Reporte</string>
+    <string name="teresa_s_beauty_salon">Teresa\'s Beauty Salon</string>
+    <string name="Pedicure">Pedicure</string>
+    <string name="Manicure">Manicure</string>
+    <string name="a_domicilio">A domicilio</string>
+    <string name="en_salon">En salon</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="trataminetos">Trataminetos</string>
+    <string name="seleccione_tratamineto">Seleccione tratamineto</string>
+    <string name="agendar_cita">Agendar cita</string>
+    <string name="Microneedling">Microneedling</string>
+    <string name="Prama">Tratamineto Pramasama</string>
+    <string name="todo">TODO</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="Kaula">Kaula</string>
+    <string name="Facial">Radio frecuencia facial</string>
+    <string name="Foto">Fotobiologica</string>
+    <string name="Skin">Skin poetry</string>
+    <string name="Meso">Mesoterapia antioxidante</string>
+    <string name="Exfo">Exfoliante</string>
+    <string name="title_activity_reporte">ReporteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textview">TextView</string>
+
+
+</resources>

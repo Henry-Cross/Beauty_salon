@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737268839252",
+    "project_id": "salon-de-belleza-3e773",
+    "storage_bucket": "salon-de-belleza-3e773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737268839252:android:42303ffa7ec2832ac90ec1",
+        "android_client_info": {
+          "package_name": "com.example.beauty_salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737268839252-6e9ba3msmidsp8l6gkfjp4jl8st6tsld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZGZNop5QYLVnXXYdPzsPXE-ZypZxWkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737268839252-6e9ba3msmidsp8l6gkfjp4jl8st6tsld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
